@@ -2,3 +2,4 @@ articles/*
 tables/raw_Patients_data.xlsx
 html_reports/*
 notebooks/.ipynb_checkpoints/*
+.Rproj.user
