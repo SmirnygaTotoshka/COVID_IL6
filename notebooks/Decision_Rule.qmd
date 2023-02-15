@@ -1,0 +1,35 @@
+---
+title: "Решающее правило для прогноза степени тяжести течения больных COVID-19"
+author: "Антон Смирнов"
+date: today
+date-format: "MMM D, YYYY"
+bibliography: bib/decision_rule_references.bib
+csl: bib/gost.csl
+toc: true
+toc-depth: 3
+toc-title: "Оглавление"
+fontsize: 14pt
+linestretch: 1.5
+geometry:
+  - top=10mm
+  - left=20mm
+  - right=20mm
+  - heightrounded
+format:
+  pdf:
+    documentclass: article
+    pdf-engine: xelatex
+    header-includes: |
+      \usepackage[utf8]{inputenc}
+      \usepackage[american,russian]{babel}
+      \usepackage{hyperref}  
+      \usepackage{unicode-math}
+mainfont: Arial
+monofont: Arial
+sansfont: Arial
+editor: visual
+---
+
+# Введение
+
+ffsgsgsdgfsfsdf
